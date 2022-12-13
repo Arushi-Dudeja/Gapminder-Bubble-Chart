@@ -1,0 +1,8 @@
+Recreating Gapminder Bubble Chart
+
+This year I read the book 'Factfulness' by Hans Rosling which highlights 10 reasons why the World is progessing and actually better than what we believe.
+In this book, I came across this exciting bubble chart by Gapminder (see below) which plots countries of the World in a scatterplot wherein circles representing the countries are proportionate to the countries' populations. On the x-axis we plot the GDP per capita in USD, and on the y-axis we plot Life expectancy in years.
+
+In this article I've outlined (with code) how I re-created this bubble chart using the following 2 Python libraries:
+1. Pyplot
+2. Bubbly
